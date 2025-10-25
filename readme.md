@@ -169,9 +169,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/sentiment-analysis-api](https://github.com/yourusername/sentiment-analysis-api)
+
+Project Link: [https://github.com/maIQmej/sentiment_analysis](https://github.com/maIQmej/sentiment_analysis)
 
 ---
 
