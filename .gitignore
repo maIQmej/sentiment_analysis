@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+
+# Bytecode compilado
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# Modelos / cachés pesados
+.hf_cache/
